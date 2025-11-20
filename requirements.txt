@@ -1,0 +1,11 @@
+streamlit>=1.32.0
+torch>=2.0.0
+transformers>=4.38.0
+peft>=0.10.0
+accelerate>=0.27.0
+pillow>=10.0.0
+psutil
+packaging
+# Optional: bitsandbytes for GPU
+bitsandbytes>=0.41.0; sys_platform != 'win32' or platform_machine == 'AMD64'
+
