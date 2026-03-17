@@ -1,9 +1,0 @@
-[server]
-# Tăng giới hạn upload file (200MB -> 500MB)
-maxUploadSize = 500
-# Tăng timeout cho websocket (tránh ngắt kết nối khi load lâu)
-websocketPingTimeout = 120
-
-[runner]
-# Giữ app chạy kể cả khi script mất nhiều thời gian
-magicEnabled = false

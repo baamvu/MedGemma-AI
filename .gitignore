@@ -1,36 +1,9 @@
 __pycache__/
 *.py[cod]
-*.log
-.DS_Store
-Thumbs.db
-desktop.ini
 .venv/
 venv/
-
-# Streamlit cache
-.streamlit/secrets.toml
-.streamlit/state/*
-
-# Model files (không push lên GitHub)
-Models/**/*.safetensors
-Models/**/*.pt
-Models/**/*.bin
-Models/**/*.json
-Models/**/*.ckpt
-Models/**/optimizer.pt
-Models/**/scheduler.pt
-Models/**/rng_state.pth
-
-# HuggingFace cache
+output/
+*.safetensors
+*.pt
+*.bin
 .cache/
-.huggingface/
-
-# VSCode/IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Reports (nếu không muốn commit)
-*.docx
-
