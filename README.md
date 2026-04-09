@@ -51,11 +51,13 @@ Optional / hackathon track:
 
 | Metric | Score | Description |
 |--------|-------|-------------|
-| BLEU-1 | 0.358 | Unigram overlap |
-| BLEU-2 | 0.239 | Bigram overlap |
-| BLEU-3 | 0.163 | Trigram overlap |
-| BLEU-4 | 0.109 | 4-gram overlap |
-| ROUGE-L | 0.310 | Longest common subsequence |
+| BLEU-1 | 0.4040 | Unigram overlap |
+| BLEU-2 | 0.2741 | Bigram overlap |
+| BLEU-3 | 0.1913 | Trigram overlap |
+| BLEU-4 | 0.1354 | 4-gram overlap |
+| ROUGE-1 | 0.4066 | 
+| ROUGE-2 | 0.1446 |
+| ROUGE-L | 0.3137 | 
 
 ---
 
