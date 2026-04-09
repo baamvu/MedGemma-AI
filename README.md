@@ -128,9 +128,9 @@ If you want a GitHub-renderable notebook with outputs, use `train_colab_fixed.ip
 
 | Component | Minimum (4-bit) | Recommended |
 |-----------|-----------------|-------------|
-| GPU | RTX 3050 8GB | RTX 3060 12GB+ |
+| GPU | RTX 3050 4GB | RTX 3060 6GB |
 | RAM | 16 GB | 32 GB |
-| Storage | 15 GB | 20 GB SSD |
+| Storage | 10 GB | 10 GB SSD |
 | OS | Windows 10/11, Linux | Ubuntu 22.04 |
 
 ---
