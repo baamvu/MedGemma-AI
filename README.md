@@ -1,4 +1,4 @@
-# 🩻 MedGemma Chest X-Ray Report Generation (IU X-Ray / Open-I)
+# 🩻 MedX-VLM (MedGemma Chest X-Ray Report Generation) (IU X-Ray / Open-I)
 
 Fine-tuning **`google/medgemma-4b-it`** with **QLoRA** on the open-access **IU X-Ray (Open-I)** dataset for **chest X-ray radiology report generation** (FINDINGS + IMPRESSION), then **merge adapters** to produce a **standalone offline model** usable on another machine without re-downloading the base model.
 
